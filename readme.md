@@ -1,3 +1,4 @@
+```
 📁 Project Structure
 src/main/java/com/app/
 
@@ -17,3 +18,4 @@ src/main/java/com/app/
 │   ├── ride/            # same structure as user
 
 └── Application.java
+```
